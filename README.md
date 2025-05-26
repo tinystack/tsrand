@@ -1,0 +1,2 @@
+# tsrand
+Go rand Package
